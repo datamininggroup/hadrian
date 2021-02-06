@@ -1,4 +1,4 @@
-Hadrian: implementations of the PFA specification
+PFA Open Inference Engine (POIE): implementations of the PFA specification
 ========
 
 **As of version 0.8.4, Hadrian, Titus, and Aurelius are available with the Apache License v2.0**

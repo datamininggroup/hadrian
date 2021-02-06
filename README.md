@@ -1,7 +1,7 @@
 PFA Open Inference Engine (POIE): implementations of the PFA specification
 ========
 
-**As of version 0.8.4, Hadrian, Titus, and Aurelius are available with the Apache License v2.0**
+**As of version 0.8.4, the PFA Open Inference Engine (POIE), Titus, and Aurelius are available with the Apache License v2.0**
 
 **Version v.0.8.4**
 
@@ -15,6 +15,4 @@ In addition, Aurelius is an R package for producing PFA from the R programming l
 
 See the [Hadrian wiki](https://github.com/opendatagroup/hadrian/wiki) for more information, including [installation instructions](https://github.com/opendatagroup/hadrian/wiki/Installation) and tutorials.
 
-Contact [licensing@opendatagroup.com](mailto:licensing@opendatagroup.com) to see how Hadrian can fit into your environment.
 
-The Roman emperor naming convention is continued from [Augustus](https://github.com/opendatagroup/augustus), Open Data's producer and consumer of the [Predictive Model Markup Language (PMML)](http://www.dmg.org).
